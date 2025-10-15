@@ -25,3 +25,4 @@ D:\Files\Job\Projects\Back-end Web Development with .NET for Beginners\AspNetCor
 D:\Files\Job\Projects\Back-end Web Development with .NET for Beginners\AspNetCoreSample\obj\Debug\net9.0\AspNetCoreSample.pdb
 D:\Files\Job\Projects\Back-end Web Development with .NET for Beginners\AspNetCoreSample\obj\Debug\net9.0\AspNetCoreSample.genruntimeconfig.cache
 D:\Files\Job\Projects\Back-end Web Development with .NET for Beginners\AspNetCoreSample\obj\Debug\net9.0\ref\AspNetCoreSample.dll
+D:\Files\Job\Projects\Back-end Web Development with .NET for Beginners\AspNetCoreSample\obj\Debug\net9.0\AspNetCoreSample.sourcelink.json
